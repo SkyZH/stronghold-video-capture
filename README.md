@@ -48,7 +48,10 @@ To capture a video:
 python capture.py --name test.mp4   (Windows)
 ```
 
+It may take about 20 seconds to connect to your video stream.
+
 To extract a video:
+
 ```
 mkdir result
 
