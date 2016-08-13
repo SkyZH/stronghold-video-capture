@@ -34,7 +34,6 @@ def main():
                     break
             else:
                 break
-
     except KeyboardInterrupt:
         capture.release()
 
